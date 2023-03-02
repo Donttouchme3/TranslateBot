@@ -1,4 +1,6 @@
 # Translater-Bot
+
+Ссылка на бота: https://t.me/EnganeTranslaterBot
 Бот умеет переводить с помощью библиотеки googletrans.
 Для создания бота использовался фреймворк aiogram. 
 Работа с данными происходит через sqlite3.
